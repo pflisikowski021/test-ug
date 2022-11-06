@@ -1,3 +1,4 @@
 name: Test project
 app:
+  name: Test app
   version: 1.0.1
